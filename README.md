@@ -1,7 +1,7 @@
 # Rock-Paper-Scissors
  Rock Paper Scissors Game On Swift-IOS Programming
 
-![alt text](<a href="https://hizliresim.com/oddvvQ"><img src="https://i.hizliresim.com/oddvvQ.png"></a>)
+![Screenshot](Simulator Screen Shot - iPhone 6 - 2019-08-26 at 18.01.14.png)
 # Usage
 Choose Play Type :
 With Computer or With Another Player
